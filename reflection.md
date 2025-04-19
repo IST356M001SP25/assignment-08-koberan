@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Kobe Sukhatme
+Sudent Email:  kmsukhat@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+In Assignment 8, I learned how to use etls to extract and visualize parking ticket locations. I also practiced building Streamlit dashboards with maps, charts, and metrics. One issue I struggled with was a legend_name error in GeoJson, but I was able to figure out how to fix it by updating folium.
